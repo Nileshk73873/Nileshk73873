@@ -90,10 +90,6 @@ Cloud & Deployment
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nileshk73873&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nileshk73873&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## Let's Connect
