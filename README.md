@@ -83,7 +83,7 @@ Cloud & Deployment
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nileshk73873&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nileshk73873&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshk73873&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
