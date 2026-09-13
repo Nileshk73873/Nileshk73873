@@ -50,6 +50,7 @@ Currently, I'm focused on strengthening my skills in **AI/ML, full-stack develop
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" />
 </p>
+
 ### Databases
 
 <p>
